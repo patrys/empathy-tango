@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>MessageViewVersion</key>
+		<integer>4</integer>
+		<key>CFBundleIdentifier</key>
+		<string>patrys.Tango.style</string>
+		<key>CFBundleName</key>
+		<string>Tango</string>
+		<key>CFBundleGetInfoString</key>
+		<string>0.1</string>
+		<key>CFBundleVersion</key>
+		<string>0.1</string>
+		<key>DefaultFontFamily</key>
+		<string>sans</string>
+		<key>DefaultFontSize</key>
+		<integer>12</integer>
+		<key>DefaultBackgroundColor</key>
+		<string>FFFFFF</string>
+		<key>DisableCombineConsecutive</key>
+		<true/>
+	</dict>
+</plist>

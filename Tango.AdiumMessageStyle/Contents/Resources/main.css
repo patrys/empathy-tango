@@ -1,0 +1,43 @@
+body {
+    background: #fff;
+    color: #000;
+    font-size: 0.75em;
+}
+
+img {
+   vertical-align: bottom;
+}
+
+.message {
+    margin: 0;
+    padding: 0.25em 0;
+}
+    .message.incoming {
+    }
+        .message.incoming .name {
+            color: #c00;
+        }
+            .message.incoming.history .name {
+                color: #ef2929;
+            }
+    .message.outgoing {
+    }
+        .message.outgoing .name {
+            color: #3465a4;
+        }
+            .message.outgoing.history .name {
+                color: #729fcf;
+            }
+
+.event {
+}
+    .event .contents {
+        color: #4e9a06;
+        margin: 0;
+        padding: 0.25em 0;
+    }
+
+.history {
+    color: #555753;
+}
+
