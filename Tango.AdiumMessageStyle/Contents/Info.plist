@@ -9,13 +9,9 @@
 		<key>CFBundleName</key>
 		<string>Tango</string>
 		<key>CFBundleGetInfoString</key>
-		<string>0.1</string>
+		<string>0.2</string>
 		<key>CFBundleVersion</key>
-		<string>0.1</string>
-		<key>DefaultFontFamily</key>
-		<string>sans</string>
-		<key>DefaultFontSize</key>
-		<integer>12</integer>
+		<string>0.2</string>
 		<key>DefaultBackgroundColor</key>
 		<string>FFFFFF</string>
 		<key>DisableCombineConsecutive</key>
