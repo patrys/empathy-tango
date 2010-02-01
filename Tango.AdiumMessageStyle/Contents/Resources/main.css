@@ -18,6 +18,10 @@ img {
     .message .contents {
         white-space: pre-wrap;
     }
+    .message .contents.code {
+        display: block;
+        font-family: monospace;
+    }
     .message.incoming {
     }
         .message.incoming .name {
