@@ -20,7 +20,6 @@ img {
     }
     .message .contents.code {
         display: block;
-        font-family: monospace;
     }
     .message.incoming {
     }
