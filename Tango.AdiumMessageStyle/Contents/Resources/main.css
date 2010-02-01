@@ -11,6 +11,9 @@ img {
     margin: 0;
     padding: 0.25em 0;
 }
+    .message .contents {
+        white-space: pre-wrap;
+    }
     .message.incoming {
     }
         .message.incoming .name {
@@ -29,11 +32,11 @@ img {
             }
 
 .event {
+    margin: 0;
+    padding: 0.25em 0;
 }
     .event .contents {
         color: #4e9a06;
-        margin: 0;
-        padding: 0.25em 0;
     }
 
 .history {
